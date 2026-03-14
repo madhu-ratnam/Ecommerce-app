@@ -1,4 +1,4 @@
-# 🛒 MarketNext
+# 🛒 MarketNest
 
 A full-stack MERN ecommerce platform with role-based access for Brands (Sellers) and Customers, featuring JWT authentication and cloud image storage.
 
@@ -24,7 +24,7 @@ A full-stack MERN ecommerce platform with role-based access for Brands (Sellers)
 ## 📁 Project Structure
 
 
-MarketNext/
+MarketNest/
 ├── backend/
 │   ├── config/
 │   │   ├── db.js                 # MongoDB connection setup
